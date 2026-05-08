@@ -1,4 +1,4 @@
-# University Timetable System
+# University Timetable System (Group7)
 
 A full-stack university timetable management app. It provides role-based access (admin, faculty, student), manages courses/rooms/faculty/students, and builds a timetable with conflict prevention. The backend is a Node.js/Express API backed by SQL Server, and the frontend is a React + Vite UI.
 
@@ -10,7 +10,7 @@ A full-stack university timetable management app. It provides role-based access 
 ## Project structure
 - backend/ - Express API server
 - frontend/ - React UI
-- Group7.sql - Schema, procedures, triggers, and seed data
+- Group7.sql - SQL Server schema, procedures, triggers, and seed data
 
 ## How to run
 
@@ -20,7 +20,7 @@ A full-stack university timetable management app. It provides role-based access 
 3. Run the SQL script at `Group7.sql` to create tables, procedures, triggers, and seed data.
 
 ### 2) Install dependencies
-From the repo root:
+From the repo root (backend dependencies):
 ```
 npm install
 ```
