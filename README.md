@@ -1,4 +1,4 @@
-# University Timetable System (Group7)
+# University Timetable System
 
 A full-stack university timetable management app. It provides role-based access (admin, faculty, student), manages courses/rooms/faculty/students, and builds a timetable with conflict prevention. The backend is a Node.js/Express API backed by SQL Server, and the frontend is a React + Vite UI.
 
